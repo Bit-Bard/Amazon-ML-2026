@@ -26,16 +26,5 @@ autogluon.tabular
 
 # Utilities
 joblib
-
-
-torch
 transformers
-FlagEmbedding
 sentencepiece
-
-scikit-learn
-faiss-cpu
-
-tqdm
-faiss-cpu
-faiss-gpu
