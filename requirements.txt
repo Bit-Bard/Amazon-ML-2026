@@ -1,0 +1,28 @@
+# Core data processing
+pandas
+numpy
+pyarrow
+
+# Fast text / feature computation
+rapidfuzz
+scikit-learn
+scipy
+tqdm
+
+# Embeddings / multilingual BGE-M3
+torch
+FlagEmbedding
+
+# Vector search
+faiss-cpu
+
+# Stage-1 / Stage-2 ML models
+lightgbm
+catboost
+xgboost
+
+# AutoML / stacking
+autogluon.tabular
+
+# Utilities
+joblib
